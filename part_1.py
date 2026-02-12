@@ -24,8 +24,8 @@ new_findings.append(user3)
 print(new_findings)
 
 ##task 1.4
-sample_bay.remove("Dust")
-print(sample_bay)
+sample_bay.remove("Dust")#removes dust sample from list
+print(sample_bay)##prints sample list without dust in it
 
 
 
